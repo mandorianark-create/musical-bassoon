@@ -1,0 +1,1 @@
+<Content of next-env.d.ts>
